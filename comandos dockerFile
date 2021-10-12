@@ -1,0 +1,8 @@
+docker build -t mercadolibre-demo-springboot .
+docker run -it -p 8080:8080 mercadolibre-demo-springboot
+
+
+
+Geolocalización de IPs:​ ​https://ip2country.info/
+Información de paises:​ ​http://restcountries.eu/
+Información sobre monedas:​ ​http//fixer.io/
